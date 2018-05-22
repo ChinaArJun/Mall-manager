@@ -7,7 +7,6 @@
   </parent>
   <artifactId>mall-manager-web</artifactId>
   <packaging>war</packaging>
-  
   <dependencies>
 		<dependency>
 		<groupId>com.arjun.mall</groupId>
